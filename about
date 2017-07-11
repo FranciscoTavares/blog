@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html lang="pt-BR" class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html lang="pt-BR" class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html lang="pt-BR" dir="ltr" class="no-js"><!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>About me – FTavares</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+    <!-- Behavioral Meta Data -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
+
+    <!-- Core Meta Data -->
+    <meta name="author" content="FTavares">
+    <meta name="description" content="Francisco Tavares is a enthusiastive researcher in recognition of patterns from Manaus - Brazil">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="http://ftavares.github.io/about/">
+    <link rel="publisher" href="https://plus.google.com/u/0/+FranciscoTavares512">
+    <!-- <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/rafaell-lycan" title="Rafaell Lycan RSS Feed"> -->
+
+    <!-- Google webmaster tools verification code -->
+    <meta name="google-site-verification" content="x08xUXYXTQWjHPyl9M_w5VIF07UWLSi0XUTxxCSS7rQ" />
+
+    <!-- Open Graph Meta Data -->
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:type" content=" website ">
+    <meta property="og:title" content="About me – FTavares">
+    <meta property="og:url" content="http://ftavares.github.io/about/">
+    <meta property="og:image" content="">
+    <meta property="og:description" content="Francisco Tavares is a enthusiastive researcher in recognition of patterns from Manaus - Brazil">
+    <meta property="og:site_name" content="FTavares Site - Posts e vídeos techs, em português, diretos e sem firúlas você só encontra aqui!">
+    <meta property="article:publisher" content="https://www.facebook.com/fcoanjos">
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="http://ftavares.github.io/about/">
+    <meta name="twitter:title" content="About me – FTavares">
+    <meta name="twitter:image" content="">
+    <meta name="twitter:description" content="Francisco Tavares is a enthusiastive researcher in recognition of patterns from Manaus - Brazil">
+    <meta name="twitter:creator" content="@fcoanjos">
+    <meta property="twitter:account_id" content="22445413">
+
+    <!-- Syntax highlighting CSS -->
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,400,700|Ubuntu:400,400italic">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/style.css" media="all">
+
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Stalemate">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <header>
+                <font>
+                    <h1><a href="index.html">Hi, I am <strong><span class="logo-name">francisco</span></strong></a></h1>
+                    <h6 style="color: #fff; line-height: 15px;">COMPUTER SCIENTIST</br> ENTHUSIASTIVE RESEARCHER IN RECOGNITION OF PATTERNS</h6>
+                </font>
+                <nav class="menu">
+                    <ul>
+                        <li><a href="index.html">read<strong> Blog</strong></a></li>
+                        <li><a href="presentations">view <strong>Presentations</strong></a></li>
+                        <li><a href="researches">my <strong>Researches</strong></a></li>
+                        <li><a href="about">about <strong>Me</strong></a></li>
+                    </ul>
+                </nav>
+            </header>
+            <footer>
+                <a href="https://github.com/franciscotavares" target="_blank" title="GitHub"> <img src="assets/img/icon-github.png" class="social_icons" /></a>
+                <a href="https://www.linkedin.com/in/fcoanjos" target="_blank" title="Linkedin"><img src="assets/img/icon-linkedin.png" class="social_icons" /></a>
+                <a href="https://twitter.com/fcoanjos" target="_blank" title="Twitter"><img src="assets/img/icon-twitter.png" class="social_icons" /></a>
+                <a href="https://www.youtube.com/channel/UCxJcvPqwE4z03t6B7dmYO6Q" target="_blank" title="Canal YouTube"><img src="assets/img/icon-youtube.png" class="social_icons" /></a>
+                <a href="https://www.slideshare.net/FranciscodosAnjosTav" target="_blank" title="Slideshare"><img src="assets/img/icon-slideshare.png" class="social_icons" /></a>
+                <a href="https://plus.google.com/u/0/+FranciscoTavares512" target="_blank" title="G+"><img src="assets/img/icon-google.png" class="social_icons" /></a>
+            </footer>
+        </aside>
+
+        <main class="main">
+            <div class="container">
+                <section class="standard about">
+  <article role="article">
+    <header>
+      <h1 class="entry-title">About Me</h1>
+    </header>
+
+    <blockquote>
+        <span><strong>First they ignore you, then they laugh at you, then they fight you, then you win.</strong></span>
+        <span class="author">Mahatma Gandhi</span>
+    </blockquote>
+
+    <p>Hi, my name is Francisco and yes, I am from State of Amazonas in Brazil.</p>
+
+    <p>I am passionate developer of C, Java and Python. I also love developing native applications for Android and currently study machine learning techniques, but specifically convolutional neural networks (CNN).</p>
+    <h4>Have questions, comments, or just want to say hello?</h4>
+    Feel free to contact me at <a href="https://facebook.com/fcoanjos">Facebook</a>. You can also find me tweeting mostly about software dev on <a href="https://twitter.com/fcoanjos">Twitter</a>. I also use <a href="https://github.com/francicotavares">GitHub</a> to store some of my codes and open-source activities.<br>
+
+    <p>If you want, see more information on my <a href="http://linkedin.com/in/fcoanjos/">Linkedin</a> profile or download my resume (<a href="assets/files/cv_francisco_pt_br.pdf" target="_blank">portugues</a>).</p>
+  </article>
+</section>
+            </div>
+            <footer id="footer">
+              <p class="credit">Copyright © 2017 - FTavares</p>
+            </footer>
+        </main>
+    </div>
+    <!-- Google Analytics verification code -->
+    <!-- Google Analytics verification code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-29893194-2', 'auto');
+  ga('send', 'pageview');
+</script>
+
+    <script async src="assets/js/main.min.js"></script>
+<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html>
